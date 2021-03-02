@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duo Codies</h1>
-<h3 align="center">Visit Duocodies.cyou<a href="https://Duocodies.cyou/"></h3>
+<h3 align="center">Visit <a href="https://Duocodies.cyou/">Duocodies.cyou<a/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duoadmin&label=Profile%20views&color=0e75b6&style=flat" alt="duoadmin" /> </p>
 

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Duo Codies</h1>
 <h3 align="center">Visit Duocodies.cyou[https://Duocodies.cyou/]</h3>
 

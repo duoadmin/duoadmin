@@ -6,6 +6,9 @@
 <a href="https://twitter.com/duocodies">
   <img align="left" alt="Duocodies | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://telegram.me/duocodies">
+  <img align="left" alt="Duocodies" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
 <a href="https://www.instagram.com/Duocodies">
   <img align="left" alt="Duocodies Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />

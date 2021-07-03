@@ -2,6 +2,14 @@
 <h3 align="center">Visit <a href="https://Duocodies.cyou/">Duocodies.cyou<a/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duoadmin&label=Profile%20views&color=0e75b6&style=flat" alt="duoadmin" /> </p>
+</a>
+<a href="https://twitter.com/duocodies">
+  <img align="left" alt="Duocodies | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://www.instagram.com/Duocodies">
+  <img align="left" alt="Duocodies Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 
 - 🔭 I’m currently working on [Duo organisation](https://github.com/DUOCODIES)

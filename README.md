@@ -9,7 +9,7 @@
 
 <a href="https://www.instagram.com/Duocodies">
   <img align="left" alt="Duocodies Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a><br>
 
 
 - 🔭 I’m currently working on [Duo organisation](https://github.com/DUOCODIES)

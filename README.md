@@ -10,8 +10,8 @@
   <img align="left" alt="Duocodies" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<a href="https://www.instagram.com/Duocodies">
-  <img align="left" alt="Duocodies Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://discord.gg/qHJgQbTDA5">
+  <img align="left" alt="Duocodies " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a><br>
 
 
